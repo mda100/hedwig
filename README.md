@@ -1,3 +1,1 @@
-# imdb-clone
-# hedwig
 # hedwig
