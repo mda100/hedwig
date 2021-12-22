@@ -1,0 +1,10 @@
+.requestsLine {
+    width: fit-content;
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .requestsLineChildren {
+    margin-right: 1vw;
+  }
+  
